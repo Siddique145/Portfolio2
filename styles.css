@@ -309,7 +309,7 @@ footer p:nth-child(2){
     color: white;
     bottom: 35px;
     font-size: 14px;
-}
+}/*
 @media (max-width:600px) {
     nav ul li{
         display: none;
@@ -366,4 +366,9 @@ footer p:nth-child(2){
         border-radius: 30px;
         transition: .4s;
     }
-}
+    body{
+        width: 100%;
+        margin-left:0;
+        margin-right: 0;
+    }
+}*/
